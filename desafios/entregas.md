@@ -4,4 +4,6 @@
 - DESAFIO 3: 20/MARÇO/2026 (da Aula 4)
 
 # SUGESTÃO - Desafios para Smart City 
+
 - https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing
+- Conecte-se com a maior plataforma de cidades inteligentes da América Latina https://connectedsmartcities.com.br/
