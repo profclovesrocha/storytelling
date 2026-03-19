@@ -1,3 +1,3 @@
-# Seja Bem-vindo(a)!
-- Disciplina: STORYTELLING
-- O método estruturado em Propósito, Projeto e Desafios é uma abordagem de gestão e aprendizagem ativa (frequentemente associada à Aprendizagem Baseada em Projetos - PBL ou Desafios - CBL) focada em dar sentido prático ao aprendizado ou trabalho, conectando a intenção à ação real.
+# Welcome!
+- Subject: STORYTELLING
+- The Purpose, Project, and Challenges structured method is an approach to management and active learning (often associated with Project-Based Learning - PBL or Challenges - CBL) focused on giving practical meaning to learning or work, connecting intention to real action.
